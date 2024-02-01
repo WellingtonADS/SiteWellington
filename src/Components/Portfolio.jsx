@@ -31,28 +31,28 @@ const imageAltText = "A professional coder working at a desk with multiple monit
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Microsoft Dynamics 365, como posso usar no dia-a-dia?",
     description:
       "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    url: "https://dio.me/articles/microsoft-dynamics-365-como-posso-usar-no-dia-a-dia",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Desenvolvimento de 7 MVP",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "App para Lanchonetes, App para Barbearia, App de Orçamento, App para Loja Virtual, App para Agendamento, App de Fidelidade, App para Advogados",
+    
   },
   {
-    title: "My Resume Site",
+    title: "Site IdeiaCode",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Criação de site para a empresa IdeiaCode. Hospedado na google cloud, com domínio próprio.",
+    url: "https://www.ideiacode.com",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Particioação no programa de pre-aceleração da Prefeitura de Manaus",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Objetivo da pré-aceleração: Realizar ações para disseminar o empreendedorismo e a inovação na cidade de Manaus. Preparar as startups para que o MVP esteja apto a ser comercializado.",
+    
   },
 ];
 

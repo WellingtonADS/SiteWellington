@@ -24,19 +24,20 @@ const imageAltText = "A grayscale image of a tidy workspace with a keyboard, sma
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Eu sou estudante de Análise e Desenvolvimento de Sistemas. Empreendedor. Fundador da Ideiacode. Técnico de Planejamento. Fotógrafo.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Gestão ágil de projetos",
+  "Gestão de projetos",
+  "Gestão de equipes",
+  "Desenvolvimento web",
+  "Desenvolvimento mobile",
+  "Cloud computing",
+  "Fotografia",
 ];
 
 /**
@@ -45,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Gosto de resolver problemas para impulsionar a tecnologia e viabilizar o desempenho das empresas. Ao aproveitar minha profissão de técnico de planejamento e analista de sistemas, procuro soluções e caminhos eficientes para tornar a tecnologia acessível a todos.";
 
 const About = () => {
   return (
