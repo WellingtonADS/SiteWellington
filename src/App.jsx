@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Wellington Uchôa PInheiro",
-  title: "Analista de Sistemas",
+  title: "",
   email: "ideiacode@ideiacode.com",
   gitHub: "WellingtonADS",
   instagram: "wellington.uchoa.pinheiro",

@@ -37,6 +37,7 @@ const skillsList = [
   "Desenvolvimento web",
   "Desenvolvimento mobile",
   "Cloud computing",
+  "Git/GitHub",
   "Fotografia",
 ];
 
@@ -61,7 +62,7 @@ const About = () => {
           textAlign: "center",
         }}
       >
-        <h2>About Myself</h2>
+        <h2>Sobre</h2>
         <p className="large">{description}</p>
         <hr />
         <ul
